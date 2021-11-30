@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+p{
+    font-family: comic;
+    font-size: 20px;
+    background: rgb(6, 70, 134);
+}
+.times{
+    background: rgb(6, 70, 134);
+}
+p.cidades{
+    text-decoration: overline;
+    text-transform: uppercase;
+    font-size: italic;
+}
